@@ -29,8 +29,8 @@ I have the ability to manage stressful situations, understanding other's points 
 - Agile Methodologies
 
 You can see some of my projects in here:
-- https://github.com/robertamangiapane?tab=repositories
-- https://vimeo.com/377963051
+- [My Repositories](https://github.com/robertamangiapane?tab=repositories)
+- [iOS Game App](https://vimeo.com/377963051)
 
 #### 3D and Graphic Software
 - Maya Autodesk
@@ -47,8 +47,8 @@ You can see some of my projects in here:
 - Compositing
 
 You can see some of my projects in here:
-- https://vimeo.com/user84598365
-- https://appwebagency.it/web-agency-roma/
+- [3D Showreels on Vimeo](https://vimeo.com/user84598365)
+- [Graphic Designer projects](https://appwebagency.it/web-agency-roma/)
 
 ## Experience
 
