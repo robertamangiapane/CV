@@ -1,6 +1,6 @@
 ## Roberta Mangiapane
 
-I am a 3D Artist experienced in rigging, animation and television production, with over four years of post-education experience. Besides my artistic skills, I decided to get on the coding side to improve my tech skills. I always have been keen on animation, videogames, and tech because in my opinion there is a limitless creative side in it as well, that can only grow.
+I am a Junior Developer with experience background as 3D Artist, skilled in rigging, animation, television production and graphic design, competent in producing high quality work. I have over four years post education experience working with various organisation including advertising and TV. Besides my artistic skills, I decided to get on the coding side to improve my tech skills. I always have been keen on animation, videogames, and tech because in my opinion there is a limitless creative side in it as well, that can only grow.
 
 ## Skills
 
@@ -11,48 +11,44 @@ With a great passion for research, I always ensure I seek better ways of doing t
 I have the ability to manage stressful situations, understanding other's points of view and emotions with good conflict management and problem-solving. I found out to have this ability when I faced the situation where the team and I had different ideas and we needed to find a compromise to getting the task done without compromising the quality of the work.
 
 #### Software Development 
-- Ruby
-- JavaScript
+- Ruby / Ruby on Rails
+- JavaScript / JQuery
 - Python
-- Swift
+- Swift	
+- TDD	
+- BDD
+- Git
+- React
+- PostgreSQL
+- Travis CI
+- Jasmine Framework
+- Cypress.io
+- RSpec
+- Rest API
+- MVC Pattern
+- Agile Methodologies
 
 You can see some of my projects in here:
 - https://github.com/robertamangiapane?tab=repositories
 - https://vimeo.com/377963051
 
 #### 3D and Graphic Software
-- Maya
+- Maya Autodesk
 - Adobe After Effects
 - Adobe Photoshop
 - Google Web Designer
 - Realflow
+- Motionbuilder
+- Rigging
+- Animation
+- Motion Graphic
+- Video Editing
+- Photo Editing
+- Compositing
 
 You can see some of my projects in here:
 - https://vimeo.com/user84598365
 - https://appwebagency.it/web-agency-roma/
-
-## Education
-
-#### Makers Academy (2019)
-
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-
-#### University La Sapienza di Roma (2013 - 2014)
-Master of Art 3D in Animation, Compositing and Animation Technique in the Performance
-
-#### University La Sapienza di Roma (2006 - 2012)
-Bachelor of Arts in Arts and Sciences of Digital Entertainment
-
-#### Liceo Scientifico Ettore Majorana (1998 - 2003)
-Completed equivalent of GCSE and A Level in: Mathematics, English, Literature, Computer Science, Biology, Physics, Chemistry, Latin, Geography and History with a focus on scientific subjects.  (A* – B+ Grades)
-
-#### Any other qualifications
-
-Functional Maths (Level 2)accredited course at Hackney Learning Trust
-Esol (Level 1) accredited course at Hacnkey Learning Trust
 
 ## Experience
 
@@ -74,7 +70,8 @@ Esol (Level 1) accredited course at Hacnkey Learning Trust
 - Create and deliver motion graphics in various media including web and mobile. 
 - Designed graphic layout, banner and landing pages for new web projects. 
 - Created logo, logo animation, infographics and motion graphic for Advertisement Company and sales presentation. 
-- Collaborated with engineering on various web, mobile and tablet application interfaces. 
+- Collaborated with engineering on various web, mobile and tablet application interfaces.
+- Rigged and animated official company's mascot and logo: a 3D humanoid alien.
 
 **New TeleCinema** (2014 - 2015)   
 *Motion graphic Designer* 
@@ -85,6 +82,43 @@ Esol (Level 1) accredited course at Hacnkey Learning Trust
 - Working closely with the Editing Team, Producers, Project Managers and Directors to finalise styles and designs of outputs. 
 - Presenting ideas, both internally to colleagues, managers and Directors.  
 - Taking projects from brief through to delivery.
+
+**Immagineria** (2014 - 2014)
+*Character Rigger Junior*
+- Designed and developed the rig.
+- Provided creative and technical problem solving.
+- Worked within an existing pipeline to create rigs for characters or props.
+- Communicate with members of the team in respect of collaborative working.
+
+**Incipit Corviale BastAnimotion** (2014 - 2014)
+*Character Rigger Apprentice*
+- Designed and developed the rig.
+- Provided creative and technical problem solving.
+- Flag and solve potential delays or problems to stay on budget and on schedule.
+
+
+## Education
+
+#### Makers Academy (2019)
+
+- OOP, TDD, MVC, DDD
+- Agile/XP
+- Ruby, Rails, JavaScript
+- RSpec, Jasmine
+
+#### University La Sapienza di Roma (2013 - 2014)
+Master of Art 3D in Animation, Compositing and Animation Technique in the Performance
+
+#### University La Sapienza di Roma (2006 - 2012)
+Bachelor of Arts in Arts and Sciences of Digital Entertainment
+
+#### Liceo Scientifico Ettore Majorana (1998 - 2003)
+Completed equivalent of GCSE and A Level in: Mathematics, English, Literature, Computer Science, Biology, Physics, Chemistry, Latin, Geography and History with a focus on scientific subjects.  (A* – B+ Grades)
+
+#### Other qualifications
+
+Functional Maths (Level 2)accredited course at Hackney Learning Trust
+Esol (Level 1) accredited course at Hackney Learning Trust
 
 ## Hobbies
 
