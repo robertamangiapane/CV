@@ -1,8 +1,12 @@
 ## Roberta Mangiapane
 
-I am a Junior Developer with experience background as 3D Artist, skilled in rigging, animation, television production and graphic design, competent in producing high quality work. I have over four years post education experience working with various organisation including advertising and TV. Besides my artistic skills, I decided to get on the coding side to improve my tech skills. I always have been keen on animation, videogames, and tech because in my opinion there is a limitless creative side in it as well, that can only grow.
+After over four years post education as 3D Artist, skilled in rigging, animation, television production and graphic design, I decided to get on the coding side to improve my tech skills.
+I love challenges. I am self-motivated and hungry for success and I work as hard as possible to understand my responsibilities to hit the target, achieve high standards and make my mark.
 
 ## Skills
+
+#### Logical Reasoning
+I like to take a systematic approach to my work and I prefer developing logical processes for solving problems. I enjoy bringing order to chaos, applying rules to complete tasks in the most efficient way and I see myself as a logical thinker who works systematically.
 
 #### Task and Time Management
 With a great passion for research, I always ensure I seek better ways of doing things, being able to manage and organize several projects, prioritizing where necessary. I developed this skill with the help of brainstorming with the team, setting tasks and time available for them.
