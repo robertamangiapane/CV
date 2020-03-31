@@ -17,7 +17,7 @@ I have the ability to manage stressful situations, understanding other's points 
 #### Software Development 
 - Ruby / Ruby on Rails
 - JavaScript / JQuery
-- Python
+- Python / PyQt / Django
 - Swift	
 - TDD	
 - BDD
@@ -28,6 +28,7 @@ I have the ability to manage stressful situations, understanding other's points 
 - Jasmine Framework
 - Cypress.io
 - RSpec
+- Unittest
 - Rest API
 - MVC Pattern
 - Agile Methodologies
@@ -105,7 +106,7 @@ You can see some of my projects in here:
 
 #### Makers Academy (2019)
 
-- OOP, TDD, MVC, DDD
+- OOP, TDD, MVC, BDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
